@@ -7,7 +7,7 @@ package javagithubdemo;
 
 /**
  *
- * @author RamoniMAC
+ * 
  */
 public class JavaGitHubDemo {
 
